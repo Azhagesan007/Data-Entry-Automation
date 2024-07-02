@@ -79,5 +79,3 @@ for g in range(length):
     another = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[1]/div/div[4]/a')
     another.click()
     sleep(1)
-
-input()
